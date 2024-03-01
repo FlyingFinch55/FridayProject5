@@ -18,6 +18,8 @@ for row in rows:
 
 # Select 5 random questions for the quiz
 selected_questions = random.sample(questions, 5)
+#IDK if the use all 10 questions since you gave 10 or 5 since that is what
+#the orginal one asked for. so for sake of testing I am doing 5 questions
 
 
 #Keep this line for testing becouse I can not spell the answers correctly
